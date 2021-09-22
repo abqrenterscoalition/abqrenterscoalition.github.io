@@ -1,6 +1,7 @@
 :root {
   --offwhite: #EBEBEB;
-  --darkgrey: rgb(30, 30, 30);
+  --darkgrey: #1E1E1E;
+  --turq: #33cfac;
 }
 
 * {
@@ -24,8 +25,8 @@ body {
 }
 
 header, footer {
-  color: var(--offwhite);
-  background-color: var(--darkgrey);
+  color: var(--darkgrey);
+  background-color: var(--turq); /*var(--darkgrey);*/
   margin: 0;
   padding: 30px;
 }
@@ -54,7 +55,7 @@ nav div {
 }
 
 nav a {
-  color: var(--offwhite);
+  color: var(--darkgrey);
   text-decoration: none;
   padding: 10px;
   display: inline-block;

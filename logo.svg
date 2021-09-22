@@ -27,14 +27,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.75187991"
-     inkscape:cx="382.37489"
-     inkscape:cy="415.62488"
+     inkscape:cx="381.70989"
+     inkscape:cy="414.29488"
      inkscape:window-width="1860"
      inkscape:window-height="1016"
      inkscape:window-x="60"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4" />
+     inkscape:current-layer="layer3" />
   <defs
      id="defs2" />
   <g
@@ -59,8 +59,8 @@
      transform="translate(-4.3704958,-38.488319)">
     <path
        id="path99"
-       style="fill:none;stroke:#EBEBEB;stroke-width:3.632;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 195.08132,114.02921 C 194.49847,79.217045 154.33411,51.211673 104.98708,51.209278 55.65012,51.221655 15.5014,79.224144 14.91868,114.02921"
+       style="fill:none;stroke:#ebebeb;stroke-width:3.632;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 195.56478,114.02921 C 194.98193,79.217045 154.81757,51.211673 105.47054,51.209278 56.133577,51.221655 15.984857,79.224144 15.402137,114.02921"
        sodipodi:nodetypes="ccc" />
   </g>
   <g
@@ -71,15 +71,15 @@
      transform="translate(-4.3704958,-38.488319)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.1736px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#EBEBEB;fill-opacity:1;stroke:none;stroke-width:0.387224"
-       x="72.53508"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.1736px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:0.387224"
+       x="74.840775"
        y="91.634369"
        id="text5414"
        transform="scale(0.96017797,1.0414736)"><tspan
          sodipodi:role="line"
          id="tspan5412"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.1736px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.387224"
-         x="72.53508"
+         x="74.840775"
          y="91.634369">ARC</tspan></text>
   </g>
   <g
@@ -90,14 +90,14 @@
      transform="translate(-4.3704958,-38.488319)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#EBEBEB;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="24.658907"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="25.142363"
        y="114.05824"
        id="text67315"><tspan
          sodipodi:role="line"
          id="tspan67313"
          style="stroke-width:0.264583"
-         x="24.658907"
+         x="25.142363"
          y="114.05824">Albuquerque Renters Coalition</tspan></text>
   </g>
 </svg>
