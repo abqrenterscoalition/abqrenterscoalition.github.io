@@ -7,7 +7,7 @@
 * {
   /* border: 1px solid red; */
   margin: 0;
-  font-family: sans-serif;
+  font-family: Ubuntu;
   box-sizing: border-box;
 }
 
@@ -74,4 +74,33 @@ main {
 
 .language {
   margin: 60px 0;
+}
+
+#landing-page body {
+  background-color: var(--turq);
+  text-align: center;
+}
+
+#landing-page img {
+  margin: 30px auto;
+  max-width: 600px;
+}
+
+#landing-page h1 {
+  font-size: 30px;
+  font-weight: normal;
+  margin: 30px;
+}
+
+.lang-buttons a {
+  width: 300px;
+  /* height: 300px; */
+  padding: 40px;
+  margin: 30px;
+  display: inline-block;
+  text-decoration: none;
+  color: var(--darkgrey);
+  background-color: var(--offwhite);
+  border: 3px solid var(--darkgrey);
+  border-radius: 15px;
 }
